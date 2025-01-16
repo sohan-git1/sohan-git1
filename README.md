@@ -32,6 +32,7 @@ Frontend & UI/UX: HTML5, CSS3, Bootstrap, UI/UX design
 Development Environments: IntelliJ IDEA, Linux, Windows, UNIX
 Methodologies: Agile, Scrum, SDLC
 Message & Data Streaming: Kafka
+
 ---
 
 ## 🎓 Academic Projects 🌟
